@@ -8,6 +8,10 @@ This project focuses on predicting the likelihood of students successfully passi
 - Utilizes a predictive model to analyze input information.
 - Generates an output predicting the likelihood of successful course completion.
 
+## Technologies Used
+- Neural Network - The predictive model is constructed utilizing Neural Networks, enabling continuous learning and refinement for enhanced prediction accuracy.
+- Machine Learning - The application leverages machine learning methodologies to train and optimize the prediction model over time.
+
 ## Dependencies
 - Python 3.x
 - Tensorflow 2.x
